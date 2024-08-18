@@ -46,7 +46,7 @@ Please check each repository for specific licensing information.
 
 ## Contact Information
 For any inquiries or feedback, feel free to reach out to us:
-- **Email**:umerfarooq.dev@.com
+- **Email**:umerfarooq.dev@gmail.com
 
 ## Acknowledgements
 We would like to acknowledge and thank our contributors, partners, and sponsors for their valuable support in making Maxed Store a success.
