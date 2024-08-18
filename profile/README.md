@@ -1,6 +1,3 @@
-Based on the details from the GitHub page for NextShiens and their website, here’s a draft README:
-
----
 
 # NextShiens
 
@@ -46,9 +43,6 @@ Dependencies vary by project. Please check the `package.json` or relevant docume
 ## License
 Please check each repository for specific licensing information.
 
----
-
-This README offers a broad overview, with specifics available in the respective project repositories.
 
 ## Contact Information
 For any inquiries or feedback, feel free to reach out to us:
